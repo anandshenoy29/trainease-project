@@ -1,5 +1,5 @@
-Username: root
-Password: password
+#Username: root
+#Password: password
 
 show databases;
 use trainease;
@@ -44,6 +44,8 @@ insert into account values(
 ('Sachin Tendulkar','9654321087','1010','33335678','INR 75000.00'),
 ('Rohit Sharma','9543210876','4545','44445678','INR 100000.00'),
 ('Shubman Gill','9432108765','7777','94907871','INR 80000.00');
+
+create table warnings(Username varchar(20));
 
 create table bookings(TE_No varchar(20),Route varchar(50),TicketType varchar(10),ClassType varchar(10),TotalMembers varchar(10),TotalTicketFare varchar(10),TicketDateTime varchar(30),Username varchar(20));
 
