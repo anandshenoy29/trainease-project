@@ -4,6 +4,6 @@ Train Ticket Booking System <br> <br>
 • Designed user friendly interfaces for better user experience. <br> <br>
 
 Technologies : Java Swing & JDBC <br>
-Development Tools : Java JDK, IntelliJ IDEA & MySQL
+Development Tools : Java JDK, IntelliJ IDEA & MySQL<br> <br>
 
 Created by - Anand Shenoy
