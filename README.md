@@ -6,4 +6,4 @@ Train Ticket Booking System <br> <br>
 Technologies : Java Swing & JDBC <br>
 Development Tools : Java JDK, IntelliJ IDEA & MySQL<br> <br>
 
-Created by - Anand Shenoy
+Created by - Mr. Anand Shenoy
