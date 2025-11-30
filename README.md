@@ -1,8 +1,6 @@
-## TrainEase - Train Ticket Booking System <br>
+## TrainEase - Train Ticket Booking System
 • Developed a demo desktop-based application for Mumbai Suburban local train bookings. <br>
 • Designed user friendly interfaces for better user experience. <br> <br>
-
 Technologies : Java Swing & JDBC <br>
 Development Tools : Java JDK, IntelliJ IDEA & MySQL<br> <br>
-
 Created by - Mr. Anand Shenoy
