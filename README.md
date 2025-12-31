@@ -3,5 +3,5 @@
 ✅ Designed user friendly interfaces for better user experience. <br> <br>
 ⚙️ **Technologies:** Java Swing & JDBC <br>
 ⚙️ **Development Tools:** Java JDK, IntelliJ IDEA & MySQL<br> <br>
-Click to view the project demo - <a href="https://youtu.be/DMVS9A16KiA">Video link</a> <br> <br>
+Click to view the project demo - <a href="https://youtu.be/DMVS9A16KiA">Video</a> <br> <br>
 Created by - <a href="https://github.com/anandshenoy29">Mr. Anand Shenoy</a>
